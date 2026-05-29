@@ -95,3 +95,6 @@ body {
   color: var(--verde);
   text-transform: uppercase;
 }
+.aba-conteudo.ativo {
+  display: block;
+}
